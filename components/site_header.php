@@ -19,14 +19,14 @@
 
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="website">
-        <meta property="og:url" content="https://dev-ges.nisgaa.bc.ca">
+        <meta property="og:url" content="https://ges.nisgaa.bc.ca">
         <meta property="og:title" content="Gitwinksihlkw Elementary School">
         <meta property="og:description" content="Gitwinksihlkw Elementary School)">
         <meta property="og:image" content="https://www.nisgaa.bc.ca/images/thumbnails/post_thumbnail.jpg">
 
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://dev-ges.nisgaa.bc.ca">
+        <meta property="twitter:url" content="https://ges.nisgaa.bc.ca">
         <meta property="twitter:title" content="Gitwinksihlkw Elementary School">
         <meta property="twitter:description" content="Gitwinksihlkw Elementary School">
         <meta property="twitter:image" content="https://www.nisgaa.bc.ca/images/thumbnails/post_thumbnail.jpg">
