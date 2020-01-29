@@ -1,7 +1,6 @@
 <!-- Site Backend Connection Initialization -->
 <?php
 
-    require '../nisgaa/functions/site.php';
     $schoolInfo = 5;
     $schoolContent = 5;
     $info = $site->siteInformation($database, $schoolInfo);
